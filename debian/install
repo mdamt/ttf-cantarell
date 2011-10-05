@@ -1,2 +1,2 @@
-*.ttf	/usr/share/fonts/truetype/ttf-blankon-ombilin
-
+*.ttf	/usr/share/fonts/truetype/ttf-cantarell
+40-cantarell.conf    /etc/fonts/conf.d
